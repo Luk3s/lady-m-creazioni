@@ -1,0 +1,1 @@
+<div id="push"></div> <!-- It is needed to lock the footer at the bottom of the page  -->
